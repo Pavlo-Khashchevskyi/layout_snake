@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QAAS,CACT,qBACF","file":"reset.dfa7be45.css","sourceRoot":"..\\src","sourcesContent":["body {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n"]}
